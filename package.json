@@ -1,0 +1,24 @@
+{
+  "name": "quentin-test",
+  "version": "1.0.0",
+  "description": "> Steps to follow to launch the project",
+  "main": "index.js",
+  "dependencies": {
+    "concurrently": "^7.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "concurrently \"cd front && npm start\" \"cd backend && npm start\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndjerrou/auth-in-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndjerrou/auth-in-react/issues"
+  },
+  "homepage": "https://github.com/ndjerrou/auth-in-react#readme"
+}
