@@ -1,0 +1,5 @@
+{
+    "DB_PASSWORD": "ndjerrou",
+    "DB_URL": "mongodb+srv://ndjerrou:ndjerrou@db.tounu.mongodb.net/demo?retryWrites=true&w=majority",
+    "CLEF_PRIVEE": "maclefprivee"
+}
